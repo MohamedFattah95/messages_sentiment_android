@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601021840357",
+    "firebase_url": "https://avid-phoenix-244615.firebaseio.com",
+    "project_id": "avid-phoenix-244615",
+    "storage_bucket": "avid-phoenix-244615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601021840357:android:f4025f006a5c6c9ff9cd0c",
+        "android_client_info": {
+          "package_name": "com.mohamedfattah95.messages_sentiment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601021840357-l7bnkvncn1deipemnesf7eqn9us4qdgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV40GEJZdlWkwbhKry5vZyB-I0WslWcFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601021840357-l7bnkvncn1deipemnesf7eqn9us4qdgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
